@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!--<title>Insert title here</title>
+        <title>Generic - Phantom by HTML5 UP</title> 나중에 넣을 것-->
+        <meta charset="UTF-8" />
+        <!--<meta name="viewport" content="width=device-width, initial-scale=1"/> 원래-->
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+        
+        </head>
+
+
+
+
+<body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+        <!-- Header -->
+        <header id="header">
+            <div class="inner">
+    
+                <!-- Logo -->
+                    <a href="index.html" class="logo">
+                        <span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">HEALTH CARE</span>
+                    </a>
+    
+                <!-- Nav -->
+                    <nav>
+                        <ul>
+                            <!--<li><a href="main.php">공돌이광식</a></li>-->
+                            <li><a href="join.html" style="float:right; margin-left:10px;">JOIN</a></li>
+                            <li><a href="login.html" style="float:right">LOGIN</a></li>
+                            <li><a href="#menu">Menu</a></li>
+                                
+                        </ul>
+                    </nav>
+    
+            </div>
+        </header>
+    
+    <!-- Menu -->
+    <nav id="menu">
+        <h2>Menu</h2>
+        <ul>
+            <li><a href="main.php">HOME</a></li>
+		    <li><a href="joinedit.php">개인정보수정</a></li>
+		    <li><a href="다이어트.php">다이어트</a></li>
+		    <li><a href="건강한생활습관.html">건강한 생활습관</a></li>
+		    <li><a href="홈트레이닝.html">홈 트레이닝</a></li>
+        </ul>
+    </nav>
+
+<!--<body>
+<nav><a href="main.php">공돌이광식</a><a href="join.html" style="float:right; margin-left:10px;">회원가입</a>
+<a href="login.html" style="float:right">로그인</a></nav>-->
+
+<div id="main">
+    <div class="inner">
+        <!--<h1>개인정보🎈💌</h1>-->
+        <header class='form-header'>
+            <h1>WELCOME&nbsp;&nbsp;TO &nbsp;&nbsp;HEALTH &nbsp;&nbsp;CARE🎈</h1>
+            <p>Login &nbsp;&nbsp;Here >></p>
+        </header> 
+<form method="post" action="/login.php">
+<label>ID</label>
+<input class="text" id="c" name="id" type="text" onkeyup="check(this.value)" placeholder="최대 12글자" maxlength="12">
+<script>
+function check(){
+    document.getElementById("c").value = document.getElementById("c").value.replace(/[^a-z0-9_-]/g,"");
+}
+</script>
+<label>PASSWORD</label>
+<input class="text" name="password" type="password" placeholder="영문,숫자,특수문자를 포함한  8~20자리" maxlength="20">
+<p></p>
+<input type="submit" value="제출">
+</form>
+</div></div>
+
+<!-- Footer -->
+<footer id="footer">
+    <div class="inner">
+        <section>
+            <h2>Get in touch</h2>
+            <form method="post" action="#">
+                <div class="fields">
+                    <div class="field half">
+                        <input type="text" name="name" id="name" placeholder="Name" />
+                    </div>
+                    <div class="field half">
+                        <input type="email" name="email" id="email" placeholder="Email" />
+                    </div>
+                    <div class="field">
+                        <textarea name="message" id="message" placeholder="Message"></textarea>
+                    </div>
+                </div>
+                <ul class="actions">
+                    <li><input type="submit" value="Send" class="primary" /></li>
+                </ul>
+            </form>
+        </section>
+        <section>
+            <h2>Follow</h2>
+            <ul class="icons">
+                <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+                <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+                <li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+                <li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
+                <li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+                <li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+            </ul>
+        </section>
+        <ul class="copyright">
+            <li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+             <li>&copy; 2019 by 공돌이광식</li><li>&copy; Untitled. All rights reserved</li></li><li>&copy; bqlqn</li>
+             <li>&copy; https://blog.yonseibon.co.kr/life/%EB%88%88-%EA%B1%B4%EA%B0%95-%EC%A7%80%ED%82%A4%EB%8A%94-%EC%83%9D%ED%99%9C%EC%8A%B5%EA%B4%80/</li>
+             <li>&copy; https://bonlivre.tistory.com/143</li><li>&copy;https://medium.com/@wooder2050</li><li>&copy;http://jin2nul2.com/</li>
+<li>&copy; https://1freewallpapers.com/</li><li>&copy; https://rel0608.tistory.com/</li><li>&copy;https://www.emojiall.com/ko</li>
+<li>&copy; https://ddochi-dev.tistory.com/</li>
+            </ul>
+    </div>
+</footer>
+
+</div> <!-- footer의 div-->
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
+
