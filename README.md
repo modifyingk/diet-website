@@ -57,3 +57,32 @@
 ![image](https://github.com/modifyingk/diet-website/assets/116068100/a7975aa8-bc22-485e-a7a1-7309c26d8981)
 ![image](https://github.com/modifyingk/diet-website/assets/116068100/1c3f5eeb-9f65-46bd-acfd-ceffa7fe4abb)
 
+# 2. 건강한 생활습관
+![image](https://github.com/modifyingk/diet-website/assets/116068100/882615e9-c40a-4eef-b7f5-ab098dbf8af8)
+
+## - 눈 건강
+![image](https://github.com/modifyingk/diet-website/assets/116068100/0b900e5e-26ed-4e87-89aa-c6afc99a6a7d)
+
+## - 수면 관리
+![image](https://github.com/modifyingk/diet-website/assets/116068100/ee42f009-a2cb-4e7f-b258-3074839cee41)
+
+## - 생활습관 교정
+![image](https://github.com/modifyingk/diet-website/assets/116068100/c58bf062-95de-47d3-9c22-a5ea138a4fb6)
+![image](https://github.com/modifyingk/diet-website/assets/116068100/70380296-3cf1-4b80-be20-c8979543a0df)
+
+
+# 3. 홈 트레이닝
+
+## - 체중관리용
+![image](https://github.com/modifyingk/diet-website/assets/116068100/b7fd3451-7a5b-4925-942f-4f6beb80c7d2)
+
+## - 건강관리용
+![image](https://github.com/modifyingk/diet-website/assets/116068100/81f94ab7-ddcc-46d9-bd9a-71630c873bdf)
+
+## - 수면관리용
+![image](https://github.com/modifyingk/diet-website/assets/116068100/9ed2a7aa-11aa-4c17-9b4a-f334e21731f8)
+
+# 4. 게시판
+![image](https://github.com/modifyingk/diet-website/assets/116068100/b79a45a3-b31b-4a7b-b253-f39766b846f6)
+![image](https://github.com/modifyingk/diet-website/assets/116068100/692dbc0a-dcc5-442c-962c-fe7c4c1350e9)
+
